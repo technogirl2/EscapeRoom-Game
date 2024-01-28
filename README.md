@@ -63,5 +63,17 @@ The addition of new user stories greatly improves our user interface and game fu
 
 
 
-<img width="436" alt="Screen Shot 2024-01-27 at 7 05 07 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/7d7326a3-2692-43fb-b53d-c88a35d0d94c">
+
+
+
+<img width="441" alt="Screen Shot 2024-01-27 at 7 04 53 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/1e8089c4-00ea-44a9-b0f8-310d1299c5bb">
+
+
+
+
+
+
+
+
+<img width="440" alt="Screen Shot 2024-01-27 at 7 04 57 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/ee6c851c-8f39-4b8c-8fd5-ae0ed57039c8">
 

@@ -17,8 +17,12 @@
 <img width="443" alt="Screen Shot 2024-01-27 at 7 03 59 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/b93727a1-5e41-4060-b69b-04a5ba57cf7d">
 
 
+<img width="436" alt="Screen Shot 2024-01-27 at 7 05 07 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/35631c5f-8b45-4540-9945-fc3a30081c1f">
 
 
+<img width="438" alt="Screen Shot 2024-01-27 at 7 05 03 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/8b4ccd74-c842-4f15-b7a6-8658c1039164">
+<img width="44<img width="441" alt="Screen Shot 2024-01-27 at 7 04 53 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/a4950ace-243d-472f-a5c6-aea2ca1029a7">
+0" alt="Screen Shot 2024-01-27 at 7 04 57 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/b219b7eb-fa1d-4a27-8453-64ede0df3aaf">
 
 
 4 people group Project

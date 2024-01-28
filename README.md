@@ -21,6 +21,9 @@
 
 
 <img width="438" alt="Screen Shot 2024-01-27 at 7 05 03 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/8b4ccd74-c842-4f15-b7a6-8658c1039164">
+
+
+
 <img width="44<img width="441" alt="Screen Shot 2024-01-27 at 7 04 53 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/a4950ace-243d-472f-a5c6-aea2ca1029a7">
 0" alt="Screen Shot 2024-01-27 at 7 04 57 PM" src="https://github.com/technogirl2/EscapeRoom-Game/assets/93014197/b219b7eb-fa1d-4a27-8453-64ede0df3aaf">
 
